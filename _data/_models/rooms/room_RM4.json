@@ -1,0 +1,169 @@
+{
+  "name_localized": {
+    "en": "Group Rate",
+    "es": "Group Rate"
+  },
+  "short_description_localized": {
+    "en": "Group Rate",
+    "es": "Group Rate"
+  },
+  "description_localized": {
+    "en": "<strong>1 Twin Bed or 2 Twin Beds</strong><br /><b>Relax</b> - In-room massage available<br /><b>Internet</b> - WiFi <br /> <b>Entertainment</b> - 21-inch LCD TV with premium channels<br /><b>Food & Drink</b> - Coffee/tea maker, minibar, 24-hour room service, and free bottled water<br /><b>Sleep</b> - Hypo-allergenic bedding <br /><b>Bathroom</b> - Private bathroom, bathtub or shower, free toiletries, and a hair dryer<br /><b>Practical</b> - Laptop-compatible safe, iron/ironing board, and desk; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Smoking/Non Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>1 Twin Bed or 2 Twin Beds</strong><br /><b>Relax</b> - In-room massage available<br /><b>Internet</b> - WiFi <br /> <b>Entertainment</b> - 21-inch LCD TV with premium channels<br /><b>Food & Drink</b> - Coffee/tea maker, minibar, 24-hour room service, and free bottled water<br /><b>Sleep</b> - Hypo-allergenic bedding <br /><b>Bathroom</b> - Private bathroom, bathtub or shower, free toiletries, and a hair dryer<br /><b>Practical</b> - Laptop-compatible safe, iron/ironing board, and desk; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning and daily housekeeping<br />Smoking/Non Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Bathtub or shower"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Free bottled water"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room massage available"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "LCD TV"
+      },
+      {
+        "name": "Minibar"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Room service (24 hours)"
+      },
+      {
+        "name": "Satellite TV service"
+      },
+      {
+        "name": "WiFi (surcharge)"
+      },
+      {
+        "name": "Smoking And Non-Smoking"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Bathtub or shower"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Free bottled water"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room massage available"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "LCD TV"
+      },
+      {
+        "name": "Minibar"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Rollaway/extra beds (surcharge)"
+      },
+      {
+        "name": "Room service (24 hours)"
+      },
+      {
+        "name": "Satellite TV service"
+      },
+      {
+        "name": "WiFi (surcharge)"
+      },
+      {
+        "name": "Smoking And Non-Smoking"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "RM4",
+  "order": 4
+}
